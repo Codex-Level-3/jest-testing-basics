@@ -7,10 +7,11 @@ Gain hands-on experience with Jest by setting up a Node.js environment for unit 
 ## Setup Process
 
 - Clone repository:
-  ````bash
-  git clone github-repository-url
-  cd jest-testing-basics```
-  ````
+  
+```bash
+git clone github-repository-url
+cd jest-testing-basics
+```
 - Initialize Node.js Project:
 
 ```bash
