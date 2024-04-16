@@ -66,3 +66,7 @@ Examples:
 
 - `multiply` function tests include normal multiplication, multiplying by zero, and negative numbers.
 - `isPrime` function tests include prime numbers, non-prime numbers, and negative input.
+
+### Test Results
+
+![alt text](image.png)
